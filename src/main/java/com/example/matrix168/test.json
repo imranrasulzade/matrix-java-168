@@ -1,0 +1,181 @@
+{
+  "id": 60,
+  "cardName": {
+    "id": 1591,
+    "az": "Bolkart Kredit",
+    "en": "Bolkart Kredit",
+    "ru": "Bolkart Kredit"
+  },
+  "cardTitle": {
+    "id": 1592,
+    "az": "Bolkart al, bol xərclə!",
+    "en": "Bolkart al, bol xərclə!",
+    "ru": "Bolkart al, bol xərclə!"
+  },
+  "cardDescription": {
+    "id": 1590,
+    "az": "Bol üstünlük, bol imkan Bolkart kreditdə VAR!",
+    "en": "<p>Countless benefits and possibilities — all included in your Bolkart credit card!</p>",
+    "ru": "<p>Множество преимуществ и возможностей — все это ЕСТЬ в кредитной карте Bolkart!</p>"
+  },
+  "slider": {
+    "id": 1002,
+    "url": "https://bolkart.az/api/bolkart-service/files/CARD-INDEX-ORANGE0001-0163_1768202595589.mp4"
+  },
+  "sliderMobile": {
+    "id": 1003,
+    "url": "https://bolkart.az/api/bolkart-service/files/1_1768202609488.png"
+  },
+  "imageSrc": {
+    "id": 1220,
+    "url": "https://bolkart.az/api/bolkart-service/files/Bolkart-STD-3D-side_1772705616693.gif"
+  },
+  "orderNumber": 1,
+  "cardType": {
+    "id": 1,
+    "name": {
+      "id": 3028,
+      "az": "Kredit",
+      "en": "Credit",
+      "ru": "Кредит"
+    },
+    "orderNumber": 1,
+    "hidden": false,
+    "status": true,
+    "slug": {
+      "id": 3029,
+      "az": "credit",
+      "en": "credit",
+      "ru": "credit"
+    },
+    "keyword": {
+      "id": 21,
+      "az": null,
+      "en": null,
+      "ru": null
+    }
+  },
+  "cardFeatureSet": [
+    {
+      "id": 169,
+      "title": {
+        "id": 3866,
+        "az": "Nağdlaşdırma",
+        "en": "Cash-out",
+        "ru": "Обналичивание"
+      },
+      "value": {
+        "id": 3867,
+        "az": "100%",
+        "en": "100%",
+        "ru": "100%"
+      },
+      "orderNumber": 1,
+      "atDetailed": true,
+      "hidden": false,
+      "status": true
+    },
+    {
+      "id": 181,
+      "title": {
+        "id": 3508,
+        "az": "Güzəşt müddəti",
+        "en": "Grace period",
+        "ru": "Льготный период"
+      },
+      "value": {
+        "id": 3509,
+        "az": "60 GÜN-dək",
+        "en": "Up to 60 DAYS",
+        "ru": "До 60 ДНЕЙ"
+      },
+      "orderNumber": 2,
+      "atDetailed": true,
+      "hidden": false,
+      "status": true
+    },
+    {
+      "id": 162,
+      "title": {
+        "id": 3512,
+        "az": "Faizsiz ödəmə",
+        "en": "Interest-free payment",
+        "ru": "Беспроцентная оплата"
+      },
+      "value": {
+        "id": 3513,
+        "az": "24 AY-dək",
+        "en": "Up to 24 MONTHS",
+        "ru": "До 24 МЕСЯЦЕВ"
+      },
+      "orderNumber": 3,
+      "atDetailed": true,
+      "hidden": false,
+      "status": true
+    },
+    {
+      "id": 204,
+      "title": {
+        "id": 3813,
+        "az": "Limit 30 000 AZN-dək",
+        "en": "Limit up to 30 000 AZN",
+        "ru": "Лимит до 30 000 AZN"
+      },
+      "value": {
+        "id": 3814,
+        "az": "30 000 AZN",
+        "en": "30 000 AZN",
+        "ru": "30 000 AZN"
+      },
+      "orderNumber": 4,
+      "atDetailed": false,
+      "hidden": false,
+      "status": true
+    },
+    {
+      "id": 217,
+      "title": {
+        "id": 3580,
+        "az": "Limit 30 000 AZN-dək",
+        "en": "Limit up to 30 000 AZN",
+        "ru": "Лимит до 30 000 AZN"
+      },
+      "value": {
+        "id": 3581,
+        "az": "30 000 AZN",
+        "en": "30 000 AZN",
+        "ru": "30 000 AZN"
+      },
+      "orderNumber": 5,
+      "atDetailed": false,
+      "hidden": false,
+      "status": true
+    }
+  ],
+  "isDelivery": true,
+  "cardDeliveryInfo": {
+    "id": 2,
+    "deliveryNote": {
+      "id": 3269,
+      "az": "Kart 3 iş günü ərzində çatdırılacaqdır.",
+      "en": "The card will be delivered within 3 business days",
+      "ru": "Карта будет доставлена в течении 3-х рабочих дней."
+    },
+    "addressNote": {
+      "id": 3268,
+      "az": "Çatdırılma yalnız Bakı ərazisi üçün keçərlidir.",
+      "en": "Delivery is possible only within Baku.",
+      "ru": "Доставка возможна только по территории Баку."
+    },
+    "deliveryPaymentTypeSet": [],
+    "amount": 5,
+    "currency": "AZN",
+    "isPaid": false,
+    "status": null
+  },
+  "isImgAnimation": true,
+  "isOtherCard": true,
+  "isOtp": false,
+  "hidden": false,
+  "atHome": true
+},
